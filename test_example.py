@@ -1,12 +1,10 @@
-def test_example():
-    assert 1 < 45
+def test_example_1():
+    assert 2 < 3
 
 
-def test_another_6():
+def test_another_2():
+    assert 0 != 2
 
-    assert 54 == 54
 
-
-def test_another_123():
-
-    assert 0 != 1
+def test_another_3():
+    assert 0 != 14 
